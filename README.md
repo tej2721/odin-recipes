@@ -1,1 +1,1 @@
-# odin-recipes
+It's all about the recipes
